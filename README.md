@@ -7,7 +7,7 @@
 
 - Importing essential libraries: Pandas, NumPy, Matplotlib, preprocessing from sklearn, cluster from sklearn, and auth and files from google.colab.
 
-- ### Data Preprocessing
+### Data Preprocessing
 
 - Loading datasets ('insurance.csv' and 'Admission_Predict_Ver1.1_small_data_set_for_Linear_Regression.csv') using Pandas.
 - Dropping unnecessary columns using the `drop` function.
